@@ -157,7 +157,7 @@ PASS rate 1/12 (8.3%) — это нормально для 3B-модели на 
 ## Дополнительные материалы
 
 - **[Главный README](./ai-quality-evaluation/)**
-- **[ASR Evaluation Pipeline](./llm_eval/)**
+- **[ASR Evaluation Pipeline](./asr_eval/)**
 
 ## Навыки от реализации
 
