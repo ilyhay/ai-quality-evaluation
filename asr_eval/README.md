@@ -203,8 +203,8 @@ pip install av==13.1.0
 
 ## Дополнительные материалы
 
-- **[Главный README](./ai-quality-evaluation/)**
-- **[LLM Evaluation Pipeline](./llm_eval/)**
+- **[Главный README](../ai-quality-evaluation/)**
+- **[LLM Evaluation Pipeline](../llm_eval/)**
 
 ## Навыки от реализации
 
