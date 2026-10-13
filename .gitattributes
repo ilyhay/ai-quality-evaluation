@@ -1,0 +1,21 @@
+# Принудительно использовать LF для всех текстовых файлов
+* text=auto eol=lf
+
+# Явно указать для конкретных типов
+*.py text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.gitattributes text eol=lf
+
+# Бинарные файлы не трогать
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.wav binary
+*.mp3 binary
+*.exe binary
+*.dll binary

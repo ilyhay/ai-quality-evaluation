@@ -1,0 +1,6 @@
+{"id": "clean-001", "category": "clean", "audio": "audio/clean_001.wav", "reference": "сегодня хорошая погода и я решил пойти в парк"}
+{"id": "clean-002", "category": "clean", "audio": "audio/clean_002.wav", "reference": "мой заказ номер 245 должен прийти завтра"}
+{"id": "clean-003", "category": "clean", "audio": "audio/clean_003.wav", "reference": "подскажите пожалуйста как оформить возврат товара"}
+{"id": "noisy-001", "category": "noisy", "audio": "audio/noisy/clean_001_noisy.wav", "reference": "сегодня хорошая погода и я решил пойти в парк"}
+{"id": "noisy-002", "category": "noisy", "audio": "audio/noisy/clean_002_noisy.wav", "reference": "мой заказ номер двести сорок пять должен прийти завтра"}
+{"id": "noisy-003", "category": "noisy", "audio": "audio/noisy/clean_003_noisy.wav", "reference": "подскажите пожалуйста как оформить возврат товара"}

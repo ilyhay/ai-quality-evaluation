@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Результаты прогонов (не коммитим личные данные)
+# Если хочешь показать результаты — удали эти строки
+# llm_eval/results.jsonl
+# asr_eval/asr_results.jsonl
+
+# Модели (они большие!)
+*.bin
+*.pt
+*.onnx
+models/

@@ -1,0 +1,13 @@
+# Общие зависимости для AI Quality Evaluation Pipeline
+
+# LLM Evaluation
+requests>=2.31.0
+
+# ASR Evaluation
+faster-whisper>=1.0.0
+jiwer>=3.0.0
+soundfile>=0.12.0
+numpy>=1.24.0
+
+# Для совместимости faster-whisper (av 14.x ломает API)
+av==13.1.0
